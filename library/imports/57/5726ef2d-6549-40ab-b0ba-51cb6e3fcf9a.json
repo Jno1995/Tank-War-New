@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playgameNormal",
+    "texture": "ecd3a9c4-0bdb-4bbc-8bc0-56bfec51f2fe",
+    "atlas": "a5dc90b7-fff6-4b27-8dfa-49e1e706d664",
+    "rect": [
+      604,
+      171,
+      167,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      38
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

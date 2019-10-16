@@ -1,0 +1,84 @@
+2019-10-16T13:00:36.690Z - normal: Load ~/.CocosCreator/settings.json
+2019-10-16T13:00:37.915Z - normal: Initializing Asset Database
+2019-10-16T13:00:37.918Z - normal: checking language setting...
+2019-10-16T13:00:37.918Z - normal: Language: en
+2019-10-16T13:00:38.726Z - success: preview server running at http://localhost:7456
+2019-10-16T13:00:38.728Z - success: protocol editor-framework registered
+2019-10-16T13:00:38.728Z - success: protocol app registered
+2019-10-16T13:00:38.728Z - success: protocol theme registered
+2019-10-16T13:00:38.728Z - success: protocol packages registered
+2019-10-16T13:00:38.729Z - success: protocol uuid registerred
+2019-10-16T13:00:38.729Z - success: protocol db registerred
+2019-10-16T13:00:38.729Z - success: protocol thumbnail registerred
+2019-10-16T13:00:38.730Z - success: protocol unpack registerred
+2019-10-16T13:00:38.730Z - success: protocol disable-commonjs registerred
+2019-10-16T13:00:38.894Z - normal: connected!
+2019-10-16T13:00:38.895Z - normal: Check project F:\TestDemo\Tank-War-New
+2019-10-16T13:00:38.897Z - normal: Initializing project F:\TestDemo\Tank-War-New
+2019-10-16T13:00:39.364Z - normal: Initializing Cocos2d
+2019-10-16T13:00:40.407Z - normal: Initializing engine extends
+2019-10-16T13:00:40.431Z - success: asset-db-debugger loaded
+2019-10-16T13:00:40.432Z - success: baidu-adapter loaded
+2019-10-16T13:00:40.434Z - success: color-picker loaded
+2019-10-16T13:00:40.535Z - success: fb-audience-network loaded
+2019-10-16T13:00:40.600Z - success: fb-live-stream loaded
+2019-10-16T13:00:40.606Z - success: google-play-instant loaded
+2019-10-16T13:00:40.610Z - success: huawei-runtime loaded
+2019-10-16T13:00:40.903Z - success: cpk-publish loaded
+2019-10-16T13:00:40.905Z - success: jsb-adapter loaded
+2019-10-16T13:00:40.909Z - success: oppo-runtime loaded
+2019-10-16T13:00:40.912Z - success: package-manager loaded
+2019-10-16T13:00:41.049Z - success: qqplay-adapter loaded
+2019-10-16T13:00:41.051Z - success: runtime-dev-tools loaded
+2019-10-16T13:00:41.055Z - success: sdkbox loaded
+2019-10-16T13:00:41.059Z - success: tester loaded
+2019-10-16T13:00:41.064Z - success: ui-grid loaded
+2019-10-16T13:00:41.065Z - success: ui-kit-preview-extra loaded
+2019-10-16T13:00:41.067Z - success: ui-kit-preview loaded
+2019-10-16T13:00:41.069Z - success: ui-kit loaded
+2019-10-16T13:00:41.070Z - success: ui-tree loaded
+2019-10-16T13:00:41.075Z - success: vivo-runtime loaded
+2019-10-16T13:00:41.076Z - success: weapp-adapter loaded
+2019-10-16T13:00:41.077Z - success: xiaomi-adapter loaded
+2019-10-16T13:00:41.132Z - success: assets loaded
+2019-10-16T13:00:41.136Z - success: builder loaded
+2019-10-16T13:00:41.449Z - success: cocos-services loaded
+2019-10-16T13:00:41.453Z - success: console loaded
+2019-10-16T13:00:41.491Z - success: fb-instant-games loaded
+2019-10-16T13:00:41.494Z - success: game-window loaded
+2019-10-16T13:00:41.496Z - success: google-instant-games loaded
+2019-10-16T13:00:41.503Z - success: hierarchy loaded
+2019-10-16T13:00:41.506Z - success: inspector loaded
+2019-10-16T13:00:41.508Z - success: keystore loaded
+2019-10-16T13:00:41.513Z - success: node-library loaded
+2019-10-16T13:00:41.515Z - success: package-asset loaded
+2019-10-16T13:00:41.516Z - success: preferences loaded
+2019-10-16T13:00:41.518Z - success: project-exporter loaded
+2019-10-16T13:00:41.520Z - success: project-importer loaded
+2019-10-16T13:00:41.523Z - success: project-settings loaded
+2019-10-16T13:00:41.528Z - success: scene loaded
+2019-10-16T13:00:41.529Z - success: simulator-debugger loaded
+2019-10-16T13:00:41.534Z - success: sprite-editor loaded
+2019-10-16T13:00:41.539Z - success: store loaded
+2019-10-16T13:00:41.544Z - success: timeline loaded
+2019-10-16T13:00:41.549Z - success: xiaomi-runtime loaded
+2019-10-16T13:00:43.529Z - info: Cocos Services load base data!
+2019-10-16T13:00:50.522Z - normal: Loading packages
+2019-10-16T13:00:50.532Z - normal: Watching packages
+2019-10-16T13:00:51.054Z - normal: Run Application
+2019-10-16T13:02:15.176Z - warn: The Prefab used by component "Game" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "3139dca4-7beb-467f-a6a2-09a273813ff4"
+
+2019-10-16T13:02:15.178Z - warn: The Prefab used by component "Game" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "6da81764-d852-4287-b461-68257954bddd"
+
+2019-10-16T13:02:15.178Z - warn: The TiledMapAsset used by component "TiledMapManager" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "da36410a-5752-4f41-9bec-5300c4d311b2"
+
+2019-10-16T13:02:15.179Z - warn: The TiledMapAsset used by component "TiledMapManager" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "8dbff7de-0c6a-4574-a372-205f19dfa92c"
+

@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "start.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ScenceStart": {
+      "__uuid__": "3079f260-6545-4228-957f-5723e289d16a"
+    },
+    "playgameClose": {
+      "__uuid__": "55b66119-21f4-4013-b73c-50852f760091"
+    },
+    "playgameNormal": {
+      "__uuid__": "5726ef2d-6549-40ab-b0ba-51cb6e3fcf9a"
+    }
+  }
+}
